@@ -47,4 +47,12 @@ The main objective was to provide the regional director with a clear and compreh
 
 This dashboard has made it possible to centralize key indicators for rapid and informed decision-making by regional management. The prioritization of data ensures a focus on the essentials, while offering the possibility to explore details at the operational level.
 
+## Files to download
 
+Here are the important files available in this project:
+
+  * [Power BI analysis report](./CarolineDevredPowerBi.pbix): Power BI source file for visualization.
+  * [Analysis report in PDF](./CarolineDevredPowerBi.pdf): PDF file for direct visualization.
+  * [Readme in French](./README.fr.md): README for French speakers.
+
+You can download these files directly from the GitHub repository.
