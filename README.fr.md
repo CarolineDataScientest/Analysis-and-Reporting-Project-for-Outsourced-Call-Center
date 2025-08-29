@@ -46,3 +46,13 @@ L’objectif principal était d’offrir au directeur régional une vision clair
 ## Valeur ajoutée 
 
 Ce tableau de bord a permis de centraliser les indicateurs essentiels pour une prise de décision rapide et éclairée par la direction régionale. La hiérarchisation des données assure la focalisation sur l’essentiel, tout en offrant la possibilité d’explorer les détails au niveau opérationnel.
+
+## Fichiers à télécharger
+
+Voici les fichiers importants disponibles dans ce projet :
+
+- [Rapport d'analyse Power BI](./CarolineDevredPowerBi.pbix) : fichier source Power BI pour visualisation.
+- [Rapport d'analyse en PDF](./CarolineDevredPowerBi.pdf) : fichier pdf pour visualisation directe.
+
+Vous pouvez télécharger ces fichiers directement depuis le dépôt GitHub.
+
