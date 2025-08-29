@@ -1,0 +1,2 @@
+# Analysis-and-Reporting-Project-for-Outsourced-Call-Center
+The main objective was to provide the regional director with a clear and comprehensive overview of the call center's operational and financial performance, enabling him to effectively monitor and manage the call center's operational (in this case, the efficiency with which the call center manages its daily activities) and financial performance.
